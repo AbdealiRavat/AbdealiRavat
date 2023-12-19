@@ -1,7 +1,7 @@
 ![Header](https://github.com/AbdealiRavat/AbdealiRavat/blob/main/linkedin-banner.png)
 
 # 💫 About Me:
-⚡I'm Abdeali Ravat. I am a Flutter Developer.<br> 🔭 I’m currently working on Weather Forecast App<br>👯 I’m looking to collaborate on Freelancing Flutter Projects.<br>🌱 I'm interested in development and moderation.
+⚡I'm Abdeali Ravat. I am a Flutter Developer.<br> 🔭 I’m currently working on a Chat App using Firebase<br>👯 I’m looking to collaborate on Freelancing Flutter Projects.<br>🌱 I'm interested in development and moderation.
 
 
 ## 🌐 Socials:
