@@ -1,4 +1,4 @@
-![Header]((https://github.com/AbdealiRavat/AbdealiRavat/assets/71277590/cb0c751b-68ed-43a9-8d49-00bf98275825))
+![Header](https://raw.githubusercontent.com/AbdealiRavat/AbdealiRavat/main/banner.png)
 
 # 💫 About Me:
 ⚡I'm Abdeali Ravat. I am a Flutter Developer.<br> 🔭 I’m currently working on a Chat App using Firebase<br>👯 I’m looking to collaborate on Freelancing Flutter Projects.<br>🌱 I'm interested in development and moderation.
