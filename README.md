@@ -10,3 +10,8 @@
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,androidstudio,vscode,firebase&theme=dark)](https://skillicons.dev)    [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github&theme=dark)](https://skillicons.dev)    [![My Skills](https://skillicons.dev/icons?i=figma,ps,ai&theme=dark)](https://skillicons.dev)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AbdealiRavat&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AbdealiRavat&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdealiRavat&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
